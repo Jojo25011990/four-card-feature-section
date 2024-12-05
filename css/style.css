@@ -126,12 +126,12 @@ body {
 }
 .features-section__headline {
   color: #4d4f62;
-  letter-spacing: 0.25px;
+  letter-spacing: 0.025rem;
   font-size: 3.6rem;
 }
 @media (max-width: 400px) {
   .features-section__headline {
-    letter-spacing: 0.17px;
+    letter-spacing: 0.017rem;
     font-size: 2.6rem;
   }
 }
@@ -153,7 +153,7 @@ body {
   width: 54rem;
   text-align: center;
   color: rgba(77, 79, 98, 0.5);
-  letter-spacing: 0.1px;
+  letter-spacing: 0.01rem;
   line-height: 2.5rem;
   font-size: 1.5rem;
   font-weight: 400;
@@ -239,7 +239,7 @@ body {
   color: rgba(77, 79, 98, 0.5);
   font-size: 1.3rem;
   font-weight: 400;
-  letter-spacing: 0.09px;
+  letter-spacing: 0.009rem;
   line-height: 2.3rem;
 }
 .features-section__card-img {
